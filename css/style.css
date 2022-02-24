@@ -551,8 +551,8 @@ nav {
       -ms-flex-align: start;
           align-items: flex-start;
   -webkit-box-flex: 0;
-      -ms-flex: 0 0 20%;
-          flex: 0 0 20%;
+      -ms-flex: 0 0 24%;
+          flex: 0 0 24%;
   background: #FAFBFD;
   border-radius: 4px;
   -webkit-transition: all 0.4s ease-in-out;
